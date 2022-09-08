@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/info">
+
+    <fragment
+        android:id="@+id/info"
+        android:name="com.uns.tiendaisabel.view.fragments.InfoFragment"
+        tools:layout="@layout/fragment_info" >
+    </fragment>
+    <fragment
+        android:id="@+id/location"
+        android:name="com.uns.tiendaisabel.view.fragments.LocationFragment"
+        tools:layout="@layout/fragment_location" >
+    </fragment>
+    <fragment
+        android:id="@+id/pedido"
+        android:name="com.uns.tiendaisabel.view.fragments.PedidosFragment"
+        tools:layout="@layout/fragment_pedidos" >
+    </fragment>
+</navigation>

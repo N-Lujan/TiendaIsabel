@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "458578217821",
+    "project_id": "tienda-isabel",
+    "storage_bucket": "tienda-isabel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458578217821:android:d33b3ecaf16e3c67ccf6b4",
+        "android_client_info": {
+          "package_name": "com.uns.tiendaisabel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458578217821-4jt2pv92flk0i525ua7dodgouk6n3mju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uns.tiendaisabel",
+            "certificate_hash": "227ce4fbb6a8c25f03df63c9b6151167e4ab42d1"
+          }
+        },
+        {
+          "client_id": "458578217821-v0q78co9chu4koh6k9nc903aqej9skci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCodO7GuqlGzaAGPHbQs4d0tsLwdobHZZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458578217821-v0q78co9chu4koh6k9nc903aqej9skci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
